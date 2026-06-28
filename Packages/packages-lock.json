@@ -14,6 +14,36 @@
       "dependencies": {},
       "hash": "89c959ee83148a54dd3eeb455bf1e44b9afa6519"
     },
+    "com.mgs.jsonavatar": {
+      "version": "https://github.com/mogoson/MGS.JsonAvatar.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.2"
+      },
+      "hash": "0bef0c2d64f989bd025f42590e8263ada612a702"
+    },
+    "com.mgs.messagebus": {
+      "version": "https://github.com/mogoson/MGS.MessageBus.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "94902e4d907dc935ab8be705424b543f3c12a367"
+    },
+    "com.mgs.monoagent": {
+      "version": "https://github.com/mogoson/MGS.MonoAgent.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "215fdc68a181123ba087e41f3c80496360c505ca"
+    },
+    "com.mgs.monocollection": {
+      "version": "https://github.com/mogoson/MGS.MonoCollection.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1f014cdf8fd5eb53f61fa02b5bbde86e86a52eec"
+    },
     "com.mgs.streamingio": {
       "version": "https://github.com/mogoson/MGS.StreamingIO.git?path=/Assets",
       "depth": 0,
@@ -26,7 +56,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "05e0502143f8ad015b4efac70d6a0e3b2da30541"
+      "hash": "5625ecf85add3319714712b7bafd5f1c137034e1"
     },
     "com.unity.collab-proxy": {
       "version": "2.3.1",

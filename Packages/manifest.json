@@ -6,6 +6,7 @@
     "com.mgs.messagebus": "https://github.com/mogoson/MGS.MessageBus.git?path=/Assets",
     "com.mgs.monoagent": "https://github.com/mogoson/MGS.MonoAgent.git?path=/Assets",
     "com.mgs.monocollection": "https://github.com/mogoson/MGS.MonoCollection.git?path=/Assets",
+    "com.mgs.singleton": "https://github.com/mogoson/MGS.Singleton.git?path=/Assets",
     "com.mgs.streamingio": "https://github.com/mogoson/MGS.StreamingIO.git?path=/Assets",
     "com.mgs.streamingporter": "https://github.com/mogoson/MGS.StreamingPorter.git?path=/Assets",
     "com.unity.collab-proxy": "2.3.1",

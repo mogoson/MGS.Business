@@ -44,6 +44,13 @@
       "dependencies": {},
       "hash": "1f014cdf8fd5eb53f61fa02b5bbde86e86a52eec"
     },
+    "com.mgs.singleton": {
+      "version": "https://github.com/mogoson/MGS.Singleton.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "33dd658d43c9052624f7823d6438803d4810d1b2"
+    },
     "com.mgs.streamingio": {
       "version": "https://github.com/mogoson/MGS.StreamingIO.git?path=/Assets",
       "depth": 0,
